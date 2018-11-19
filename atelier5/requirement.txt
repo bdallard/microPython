@@ -1,0 +1,6 @@
+Bloc pile 6xAA = 9 Volts : x1
+Transistor P2N2222AG (TO92) : x1
+Moteur de jouet : x1
+Diode (1N4001) : x1
+Résistance de 2.2 KOhms : x1
+
