@@ -1,0 +1,5 @@
+Photo-résistance : x1
+Résistance de 100 Ohms : x1
+Résistance de 10K Ohms : x1
+LED (ou DEL) : x1
+
