@@ -1,0 +1,4 @@
+Résistance de 330 Ohms : x3
+LED RGB : x1
+
+
