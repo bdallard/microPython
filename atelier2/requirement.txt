@@ -1,0 +1,4 @@
+Résistance de 100 ou 330 Ohms (brun-noir-brun) : x1
+LED (ou DEL) : x1
+Potentiomètre 10K Ohms : x1
+
